@@ -19,3 +19,7 @@ Inspiration from [academind](https://academind.com/learn/react/redux-vs-context-
 
 ## Check out the demo at 
 https://react-context.netlify.com/
+
+
+Context API's Provider and Consumer feature were added in React version 16.3.0 and it's contextType feature were added in 16.6.0.
+Both works fine but Consumer still have bug of [Context API not working in class component](https://github.com/facebook/react/issues/13969).
